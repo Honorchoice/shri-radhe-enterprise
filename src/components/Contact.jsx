@@ -1,3 +1,5 @@
+import React from "react";
+
 function Contact() {
   return (
     <section id="contact" className="pb-16 pt-16 sm:pb-20 sm:pt-20">

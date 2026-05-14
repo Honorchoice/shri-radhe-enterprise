@@ -1,3 +1,5 @@
+import React from "react";
+
 const highlights = [
   "Verified data from trusted sources",
   "Paperless process with fast onboarding",

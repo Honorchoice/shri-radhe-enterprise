@@ -1,3 +1,5 @@
+import React from "react";
+
 const checks = [
   {
     title: "Education Document Check",
